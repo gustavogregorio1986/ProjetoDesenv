@@ -1,0 +1,17 @@
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Servico.deps.json
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Servico.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Servico.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Data.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Dominio.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Data.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\bin\Debug\net5.0\ProjetoDesenv.Dominio.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.csproj.AssemblyReference.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.AssemblyInfoInputs.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.AssemblyInfo.cs
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.csproj.CopyComplete
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\refint\ProjetoDesenv.Servico.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ProjetoDesenv.Servico.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Servico\obj\Debug\net5.0\ref\ProjetoDesenv.Servico.dll

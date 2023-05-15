@@ -1,0 +1,12 @@
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\bin\Debug\net5.0\ProjetoDesenv.Dominio.deps.json
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\bin\Debug\net5.0\ProjetoDesenv.Dominio.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\bin\Debug\net5.0\ProjetoDesenv.Dominio.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.csproj.AssemblyReference.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.AssemblyInfo.cs
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\refint\ProjetoDesenv.Dominio.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ProjetoDesenv.Dominio.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Dominio\obj\Debug\net5.0\ref\ProjetoDesenv.Dominio.dll

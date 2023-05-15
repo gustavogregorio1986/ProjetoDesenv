@@ -1,0 +1,15 @@
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\bin\Debug\net5.0\ProjetoDesenv.Data.deps.json
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\bin\Debug\net5.0\ProjetoDesenv.Data.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\bin\Debug\net5.0\ProjetoDesenv.Data.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\bin\Debug\net5.0\ProjetoDesenv.Dominio.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\bin\Debug\net5.0\ProjetoDesenv.Dominio.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.csproj.AssemblyReference.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.AssemblyInfoInputs.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.AssemblyInfo.cs
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.csproj.CoreCompileInputs.cache
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.csproj.CopyComplete
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\refint\ProjetoDesenv.Data.dll
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ProjetoDesenv.Data.pdb
+C:\ProjetoDesenv\ProjetoDesenv\ProjetoDesenv.Data\obj\Debug\net5.0\ref\ProjetoDesenv.Data.dll
