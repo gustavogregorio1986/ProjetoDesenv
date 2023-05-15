@@ -1,6 +1,49 @@
 ﻿@*
     Cadastro do login 
 *@
+@model ProjetoDesenv.Models.UsuarioView
 @{
 }
-<h2>Cadastrar o Usuario</h2>
+
+@using(Html.BeginForm())
+{
+    <fieldset class="">
+        <legend>Cadastrar Usuario</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Login)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(m => m.Login)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Senha)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(m => m.Senha)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(m => m.Email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Perfil)
+        </div>
+        <div class="editor-field">
+           @Html.DropDownListFor(x => x.Perfil, new[] {
+            new SelectListItem() {Text = "Masculino", Value = "m"},
+            new SelectListItem() {Text = "Feminino", Value = "f"}
+        }, "Seleiconar ....") 
+        </div>
+        
+        <br/>
+        <p>
+             <input type="submit" value="Cadastrar o usuario" class="btn-primary" />
+        </p>
+    </fieldset>
+}

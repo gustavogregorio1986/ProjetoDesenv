@@ -4,7 +4,7 @@ namespace ProjetoDesenv.Controllers
 {
     public class LoginController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Logar()
         {
             return View();
         }
